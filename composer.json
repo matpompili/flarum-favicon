@@ -17,7 +17,7 @@
         "flarum-extension": {
             "title": "Favicon",
             "icon": {
-                "name": "paperclip",
+                "name": "file-image-o",
                 "backgroundColor": "#000",
                 "color": "#fff"
             }
