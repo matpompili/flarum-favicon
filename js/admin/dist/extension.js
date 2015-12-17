@@ -1,4 +1,12 @@
 System.register('matpompili/favicon/components/FaviconSettingsModal', ['flarum/components/SettingsModal'], function (_export) {
+  /*
+  * This file is part of flarum-favicon.
+  *
+  * (c) Matteo Pompili <matpompili@gmail.com>
+  *
+  * For the full copyright and license information, please view the LICENSE
+  * file that was distributed with this source code.
+  */
   'use strict';
 
   var SettingsModal, FaviconSettingsModal;
@@ -59,6 +67,14 @@ System.register('matpompili/favicon/components/FaviconSettingsModal', ['flarum/c
   };
 });;
 System.register('matpompili/favicon/main', ['flarum/extend', 'flarum/app', 'matpompili/favicon/components/FaviconSettingsModal'], function (_export) {
+  /*
+  * This file is part of flarum-favicon.
+  *
+  * (c) Matteo Pompili <matpompili@gmail.com>
+  *
+  * For the full copyright and license information, please view the LICENSE
+  * file that was distributed with this source code.
+  */
   'use strict';
 
   var extend, app, FaviconSettingsModal;

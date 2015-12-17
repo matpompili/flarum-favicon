@@ -34,6 +34,6 @@ You need to get a favicon pack with [RealFaviconGenerator.net](https://realfavic
 
 Now you will need to extract that zip file to a folder inside you flarum home, e.g `myFavicons`.
 
-Finally, in the admin panel, open flarum-favicon settings. You will need to put the path of the folder relative to your web root. What does that mean?
-If your website `www.myforum.org` opens directly on flarum, then the favicon folder path will just be, with reference to the previous example, `myFavicons`.
-If your forum address is `www.mywebsite.org/something/forum`
+Finally, in the admin panel, open flarum-favicon settings. You will need to put the **name** of the folder that's inside your flarum home folder. With reference to the previous example, it would be `myFavicons`.
+
+And that's it!
