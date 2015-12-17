@@ -1,0 +1,8 @@
+{
+    "name": "matpompili/flarum-favicon",
+    "autoload": {
+        "psr-4": {
+            "Matpompili\\Flarum-favicon\\": "src/"
+        }
+    }
+}
