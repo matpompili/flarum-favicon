@@ -22,9 +22,9 @@ Then enable it you administration panel. Done!
 If you don't want to use composer, you can get the extension in one these two ways:
   1. Clone this repository in your `flarum/extensions` folder with
   ```
-  git clone https://github.com/matpompili/flarum-latex.git matpompili-latex
+  git clone https://github.com/matpompili/flarum-latex.git matpompili-favicon
   ```
-  2. Download the latest version with the **Download ZIP** button on the top right of this page, and extract it in your `flarum/extensions`. Rename the extracted folder to `matpompili-latex`.
+  2. Download the latest version with the **Download ZIP** button on the top right of this page, and extract it in your `flarum/extensions`. Rename the extracted folder to `matpompili-favicon`.
 
 You will still need to enable it.
 
